@@ -14,7 +14,7 @@ baseurl: ""
 username: Nakul
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: DungeonLad
+typing_text: Diligent Explorer
 # email: Your E-Mail address for the email button.
 email: nakulrandad@gmail.com
 # For every social button you want to display, set your username or userid
@@ -25,16 +25,15 @@ codepen_username:
 dev_username: 
 linkedin_username: nakulrandad
 twitter_username: 
+facebook_username: nakulrandad
+instagram_username: nakulr007
 
 # ABOUT ME SECTION
 # show_aboutme_card:
 # > setting this to true, will display the About Me section
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
-# about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
-# about_me_description: This will be displayed under the title.
-about_me_description: My 'passion' to explore new stuff. Maybe it is not just with me, all humans have curiosity. Be happy, make others happy. I have a lots of pieces of wisdom to share but if I continue, you will call me a hypocrite. I am an undergradute at IIT Bombay pursuing my major in Aerospace Engineering. Not planning to make an Iron-Man suit anytime soon but stay updated, I might end up building something even more fascinating.
+
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
@@ -68,7 +67,7 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
@@ -77,15 +76,11 @@ os_projects_title: Open Source Projects
 # > setting this to true, will display the Contact section
 # > setting this to false, will omit the Contact section
 show_contact_card: true
-# contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
-# contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: nakulrandad
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
