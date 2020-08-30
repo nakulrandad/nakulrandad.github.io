@@ -17,45 +17,32 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+- title: AUV-IITB
+  title-url: https://auv-iitb.org/
+  date: Sep 2018 - Present
+  subtitle: Mechanical Subdivision Head
+  # tags:
+  #   - tag: 
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Department Academic Mentor
+  title-url: 
+  date: Apr 2020 - Present
+  subtitle: Aerospace Engineering Department, IITB
+  # tags:
+  #   - tag: 
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
+- title: Tinkerers' Laboratory, IITB
+  title-url: https://www.tinkerers-lab.org/
   date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+  subtitle: Technical Convener
+  # tags:
+  #   - tag: 
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Indian Institute of Technology, Bombay
+  title-url: https://iitb.ac.in/
+  date: 2018 - 2022
+  subtitle: B.Tech. Aerospace Engineering
   timeline-side: left

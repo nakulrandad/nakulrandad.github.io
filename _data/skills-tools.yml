@@ -6,12 +6,12 @@
 #   weight: 5
 
 - name: Ansys Fluent
-  weight: 5
+  weight: 4
 
 - name: SolidWorks
-  weight: 3
+  weight: 4
 
-- name: Git
+- name: ROS
   weight: 3
 
 - name: Ansys Mechanical
@@ -19,3 +19,6 @@
 
 - name: VS Code
   weight: 2
+
+- name: Simulink
+  weight: 3

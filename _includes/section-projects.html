@@ -7,9 +7,9 @@
           <h3>{{project.name}}</h3>
         </div>
         <p class="project-desc">{{project.descr}}</p>
-        {% if project.demo %}
-          <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer">
-            Demo
+        {% if project.website %}
+          <a class="highlight-link" href="{{project.website}}" target="_blank" rel="noreferrer">
+            Website
           </a>
         {% endif %}
         {% if project.tags %}
@@ -24,6 +24,7 @@
   </div>
 {% endif %}
 
+<!-- 
 {% if site.show_os_projects %}
   <h1 class="title">{{site.os_projects_title}}</h1>
   {% if site.projects.sort_by == 'stars' %}
@@ -71,7 +72,7 @@
           <p class="project-desc">{{repository.description}}</p>
           {% if repository.homepage != "" and repository.homepage != nil %}
             <a class="highlight-link" href="{{repository.homepage}}" target="_blank" rel="noreferrer">
-              Demo
+              website
             </a>
           {% endif %}
           <a class="highlight-link" href="{{repository.html_url}}" target="_blank" rel="noreferrer">
@@ -88,6 +89,6 @@
       {% endunless %}
     {% endfor %}
   </div>
-{% endif %}
+{% endif %} -->
 
 
