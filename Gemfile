@@ -1,6 +1,5 @@
 source "https://rubygems.org"
+gemspec
 
-gem "dotenv"
-gem "github-pages"
-gem "jekyll"
-gem "jekyll-github-metadata"
+gem "html-proofer"
+gem "kramdown-parser-gfm"
