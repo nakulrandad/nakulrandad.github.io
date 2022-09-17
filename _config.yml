@@ -5,7 +5,7 @@ title:               Nakul.
 tagline:             
 description:         A Diligent Explorer
 url:                 'http://nakulrandad.github.io'
-baseurl:             '/nakul'
+baseurl:             '/'
 
 # About/contact
 author:
