@@ -41,7 +41,13 @@ A navigation strategy devised for a high dimensional path problem using Pontryag
 A joint effort by IIT Bombay (Incharge: Prof. L. Vachhani) and Larsen & Toubro Defence under IMPRINT IIC scheme by Gov. of India through Ministry of Education and Dept. of Science and Technology.
 
 ### [Student Mentor](https://smp.gymkhana.iitb.ac.in/) | IIT Bombay
+
 Mentor of 18 students, selected based on extensive interview and peer reviews, that provide necessary support, academic and otherwise freshmen and sophomore students.
 
+### [Agrobot Design Innovation Challenge](https://github.com/Tech-Meet-Solutions/Agrobot_9th_InterIIT_Tech_Meet) | Team Lead, InterIIT Tech Meet
+
+Agricultural robot designed to deal with effective braking in hilly terrains, transplantation of plants, seed metering, and weed removal, along with additional features that may supplement the needs of the farmer on an as-needed basis.
+
 ### [Convener](https://www.facebook.com/tinkererIITB/) | Tinkerers’ Laboratory, IIT Bombay
+
 A 24*7 'Makerspace' for innovators that is open to all the students to promote hands on learning experience.
