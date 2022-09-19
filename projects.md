@@ -32,11 +32,15 @@ A 2D game developed as a hobby project wich includes designing the enemy & playe
 
 A navigation strategy devised for a high dimensional path problem using Pontryagin’s maximum principle
 
+### [Direct Methods for Optimal Control](https://nakulrandad.github.io/Direct-Methods-for-Optimal-Control/)
+
+A study of the numerical methods for optimal control. In particular, the direct methods are discussed with an objective to showcase an approach for general optimal control problems.
+
 ---
 
 ## Positions of Responsibility
 
-### [Underwater Remotely Operated Vehicle]() | Project Lead
+### [Project Lead]() | Underwater Remotely Operated Vehicle
 
 A joint effort by IIT Bombay (Incharge: Prof. L. Vachhani) and Larsen & Toubro Defence under IMPRINT IIC scheme by Gov. of India through Ministry of Education and Dept. of Science and Technology.
 
@@ -44,7 +48,7 @@ A joint effort by IIT Bombay (Incharge: Prof. L. Vachhani) and Larsen & Toubro D
 
 Mentor of 18 students, selected based on extensive interview and peer reviews, that provide necessary support, academic and otherwise freshmen and sophomore students.
 
-### [Agrobot Design Innovation Challenge](https://github.com/Tech-Meet-Solutions/Agrobot_9th_InterIIT_Tech_Meet) | Team Lead, InterIIT Tech Meet
+### [Team Lead](https://github.com/Tech-Meet-Solutions/Agrobot_9th_InterIIT_Tech_Meet) | Agrobot Design Innovation Challenge, InterIIT Tech Meet
 
 Agricultural robot designed to deal with effective braking in hilly terrains, transplantation of plants, seed metering, and weed removal, along with additional features that may supplement the needs of the farmer on an as-needed basis.
 
